@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/johnathandoan/static/css/main.469af8d3.css",
-    "main.js": "/johnathandoan/static/js/main.5dfcb043.js",
+    "main.js": "/johnathandoan/static/js/main.a7da598d.js",
     "static/js/787.1ed0c42c.chunk.js": "/johnathandoan/static/js/787.1ed0c42c.chunk.js",
+    "static/media/proj1.png": "/johnathandoan/static/media/proj1.af961699c39bf1d96ec7.png",
     "index.html": "/johnathandoan/index.html",
     "main.469af8d3.css.map": "/johnathandoan/static/css/main.469af8d3.css.map",
-    "main.5dfcb043.js.map": "/johnathandoan/static/js/main.5dfcb043.js.map",
+    "main.a7da598d.js.map": "/johnathandoan/static/js/main.a7da598d.js.map",
     "787.1ed0c42c.chunk.js.map": "/johnathandoan/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.469af8d3.css",
-    "static/js/main.5dfcb043.js"
+    "static/js/main.a7da598d.js"
   ]
 }
