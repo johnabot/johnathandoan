@@ -14,9 +14,6 @@ function Home() {
           <p>
             A software developer with a passion for cloud and web3. 
           </p>
-          <LinkedInIcon />
-          <EmailIcon /> 
-          <GithubIcon />
         </div>
       </div>
       <div className="skills"> 
@@ -32,7 +29,7 @@ function Home() {
             <span>NodeJS</span>
           </li>
           <li className='item'>
-            <h2> Back-End </h2>
+            <h2> Languages </h2>
             <span> JavaScript, Rust, Python, C, TypeScript </span>
           </li>
         </ol>
