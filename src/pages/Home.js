@@ -30,7 +30,7 @@ function Home() {
           </li>
           <li className='item'>
             <h2> Languages </h2>
-            <span> JavaScript, Rust, Go, Python, C, TypeScript </span>
+            <span> Python, JavaScript, Rust, Go, C </span>
           </li>
         </ol>
       </div>
